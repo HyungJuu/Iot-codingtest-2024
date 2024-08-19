@@ -27,7 +27,8 @@
 
 - 코딩테스트 유형
     - 온라인
-    - 오프라인 : 인터넷을 금지하고 코딩하는 방식(자주 쓰는 알고리즘 소스를 USB에 담아가서 사용하는 경우도 있음)
+    - 오프라인
+        - 인터넷을 금지하고 코딩하는 방식(자주 쓰는 알고리즘 소스를 USB에 담아가서 사용하는 경우도 있음)
         - 페이퍼로 코딩테스트 보는 회사도 존재
 
 - 코딩테스트 학습 방법
@@ -39,11 +40,17 @@
         - Java, C#, Kotlin : 중간
         - C, C++ : 어려움
 
-- 학습 순서 : 책순서대로
+- 코딩테스트 학습
+    - [복잡도](https://github.com/HyungJuu/Iot-codingtest-2024/blob/main/day01/ct001_complexity.ipynb)
+    - [그리디](https://github.com/HyungJuu/Iot-codingtest-2024/blob/main/day01/ct002_greedy.ipynb)
 
-- [복잡도]()
-- [그리디]()
+## 2일차(24.08.16)
+- 코딩테스트 학습
+    - [x] [구현](https://github.com/HyungJuu/Iot-codingtest-2024/blob/main/day02/ct003_implement.ipynb)
 
-## 2일차
-
-## 3일차
+## 3일차(24.08.19)
+- 코딩테스트 학습
+    - [ ] [DFS]()
+    - [ ] [BFS]()
+    - [ ] [DP]()
+    - [ ] [Graph]()
